@@ -57,3 +57,9 @@ li.done {
     text-decoration: line-through;
     color: gray;
 }
+/* Existing styles remain unchanged */
+li.important {
+    background-color: #ffeb3b; /* Yellow background for important tasks */
+    font-weight: bold;
+    border-left: 4px solid #ffc107; /* Distinct border to highlight importance */
+}
